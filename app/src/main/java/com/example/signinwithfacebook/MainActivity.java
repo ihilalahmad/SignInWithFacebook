@@ -35,7 +35,8 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
-    //TimeTrackerFlutterApp firebase project is used in this app.
+    //This app is connect to TimeTrackingFlutterApp firebase project
+
 
     public static final String TAG = "FacebookAuth";
     private CallbackManager mCallBackManager;
